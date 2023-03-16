@@ -33,5 +33,19 @@ From above Repo I have selected restore_test.py File
 
 ### Justification : 
 
-* As we have seen in File 1 , here also same kind error has and apart from that there are sae kind of hints that i have mentioned in File 1 suggestion section. 
+* As we have seen in File 1 , here also same kind error has and apart from that there are sae kind of hints that i have mentioned in File 1 suggestion section.
+
+# File 3
+
+### Selected Tool : Mypy
+### Selected Repo : https://github.com/davidsandberg/facenet/blob/master/src/freeze_graph.py
+
+
+# Error:
+
+![image](https://user-images.githubusercontent.com/75216559/225580629-7b4a56a3-4898-4459-ae7e-562d8ce29e3c.png)
+
+### Justification : 
+
+* error says that mypy can not find that particular module. 
 
