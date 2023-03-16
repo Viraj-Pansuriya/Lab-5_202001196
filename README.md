@@ -48,4 +48,4 @@ From above Repo I have selected restore_test.py File
 ### Justification : 
 
 * error says that mypy can not find that particular module. 
-
+* another error is can not find stub for "six.moves" . that is basically because of we are importing that particular thing from another file and in mypy we are doing analysis of only one file. 
